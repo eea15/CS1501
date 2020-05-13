@@ -1,0 +1,108 @@
+Emma Akbari (eea21) results for project 2
+
+					Original File Size			Compressed File Size		Compression Ratio
+File: all.tar			
+LZW						2,960 KB					  1,804 KB					   1.64       
+MyLZW (do nothing)		2,960 KB					  1,751 KB					   1.69
+MyLZW (reset)           2,960 KB					  1,151 KB					   2.57
+MyLZW (monitor)			2,960 KB					  1,751 KB					   1.69
+WinZip					2,960 KB					  	906 KB					   3.27
+
+File: assig2.doc		
+LZW						   85 KB					     73 KB					   1.16       
+MyLZW (do nothing)		   85 KB					     40 KB					   2.13
+MyLZW (reset)              85 KB					     40 KB					   2.13
+MyLZW (monitor)			   85 KB					     40 KB					   2.13
+WinZip					   85 KB					  	 22 KB					   3.86
+
+File: bmps.tar	
+LZW						 1080 KB					    904 KB					   1.19       
+MyLZW (do nothing)		 1080 KB					     80 KB					   13.5
+MyLZW (reset)            1080 KB					     80 KB					   13.5
+MyLZW (monitor)			 1080 KB					     80 KB					   13.5
+WinZip					 1080 KB					  	 55 KB					   19.64
+
+File: code.txt			
+LZW						   71 KB					     31 KB					   2.29       
+MyLZW (do nothing)		   71 KB					     24 KB					   2.96
+MyLZW (reset)              71 KB					     24 KB					   2.96
+MyLZW (monitor)			   71 KB					     24 KB					   2.96
+WinZip					   71 KB					  	 14 KB					   3.27
+
+File: code2.txt			
+LZW						   57 KB					     24 KB					   2.38       
+MyLZW (do nothing)		   57 KB					     21 KB					   2.71
+MyLZW (reset)              57 KB					     21 KB					   2.71
+MyLZW (monitor)			   57 KB					     21 KB					   2.71
+WinZip					   57 KB					  	 12 KB					   4.75
+
+File: edit.exe		
+LZW						  231 KB					    245 KB					   0.94       
+MyLZW (do nothing)		  231 KB					    153 KB					   1.51
+MyLZW (reset)             231 KB					    149 KB					   1.55
+MyLZW (monitor)			  231 KB					    149 KB					   1.55
+WinZip					  231 KB					  	118 KB					   1.96
+
+File: frosty.jpg		
+LZW						  124 KB					    174 KB					   0.71       
+MyLZW (do nothing)		  124 KB					    160 KB					   0.78
+MyLZW (reset)             124 KB					    168 KB					   0.74
+MyLZW (monitor)			  124 KB					    168 KB					   0.74
+WinZip					  124 KB					  	124 KB					   1.00
+
+File: gone_fishing.bmp		
+LZW						   17 KB					     10 KB					   1.71       
+MyLZW (do nothing)		   17 KB					      9 KB					   1.89
+MyLZW (reset)              17 KB					      9 KB					   1.89
+MyLZW (monitor)			   17 KB					      9 KB					   1.89
+WinZip					   17 KB					  	  9 KB					   1.89
+
+File: large.txt		
+LZW						1,193 KB					    591 KB					   2.02       
+MyLZW (do nothing)		1,193 KB					    491 KB					   2.43
+MyLZW (reset)           1,193 KB					    516 KB					   2.31
+MyLZW (monitor)			1,193 KB					    516 KB					   2.31
+WinZip					1,193 KB					  	463 KB					   2.58
+
+File: lego-big.gif		
+LZW						   92 KB					    126 KB					   0.73       
+MyLZW (do nothing)		   92 KB					    120 KB					   0.77
+MyLZW (reset)              92 KB					    120 KB					   0.77
+MyLZW (monitor)			   92 KB					    120 KB					   0.77
+WinZip					   92 KB					  	 91 KB					   1.01
+
+File: medium.txt		
+LZW						   25 KB					     13 KB					   1.92       
+MyLZW (do nothing)		   25 KB					     13 KB					   1.92
+MyLZW (reset)              25 KB					     13 KB					   1.92
+MyLZW (monitor)			   25 KB					     13 KB					   1.92
+WinZip					   25 KB					  	 11 KB					   2.27
+
+File: texts.tar		
+LZW					    1,350 KB					    989 KB					   1.36       
+MyLZW (do nothing)		1,350 KB					    584 KB					   2.31
+MyLZW (reset)           1,350 KB					    577 KB					   2.34
+MyLZW (monitor)			1,350 KB					    577 KB					   2.34
+WinZip					1,350 KB					  	499 KB					   2.71
+
+File: wacky.bmp		
+LZW					      901 KB					      5 KB					  180.2       
+MyLZW (do nothing)		  901 KB					      4 KB					 225.25
+MyLZW (reset)             901 KB					      4 KB					 225.25
+MyLZW (monitor)			  901 KB					      4 KB					 225.25
+WinZip					  901 KB					  	  4 KB					 225.25
+
+File: winnt256.bmp		
+LZW					      154 KB					    156 KB					   0.99       
+MyLZW (do nothing)		  154 KB					     62 KB					   2.48
+MyLZW (reset)             154 KB					     62 KB					   2.48
+MyLZW (monitor)			  154 KB					     62 KB					   2.48
+WinZip					  154 KB					  	 44 KB					   3.5
+
+
+
+
+
+
+
+

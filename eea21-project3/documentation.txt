@@ -1,0 +1,16 @@
+Emma Akbari (eea21) Project 3
+
+Approach for main functions:
+add(): adding a Car to the min PQ involves adding the car to the end of the heap then pushing it up the heap until it maintains the heap property. So, this function uses O(1) for the add + O(lgn) maximum swaps to push the car up the heap --> overall O(lgn) runtime.
+
+update(): I used Java TreeMap for the indirection data structure tracking the index of each car. Since TreeMap has an O(lgn) worst case runtime (it is backed by a red-black tree), the car property updates in worst case O(lgn) runtime. This is why I selected TreeMap for the indirection data structure. Once the property is updated, push_up() and push_down() are called to maintain the heap property. Since there is a max of O(lgn) swaps up the heap + O(lgn) swaps down the heap + O(lgn) to get the index to update, the overall runtime for this function is O(lgn).
+
+remove(): this function swaps the last leaf of the heap with the car to remove, then removes the last leaf and maintains the heap property. Since the indices of these cars are accessed with the indirection TreeMap, it requires worst case O(lgn) to find and swap them. To maintain the heap property, it is again a max of O(lgn) swaps up the heap + O(lgn) swaps down the heap, leading to O(lgn) runtime.
+
+retrieve(): this function simply accesses the top element of the heap as it contains the min value. So, it is O(1).
+
+get_cars(): this function is used in the driver to get the cars of a particular make and model. This is done in O(w) where w is the number of locations of a particular make/model (maintained in TreeMap makeModel). Once this is done, a MinPQ is instantiated using those Cars. Since the add() function is O(lgn) + retrieve() O(1) + get_cars O(w) for some relatively small w, the overall runtime to retrieve a car based on make/model is also O(lgn).
+
+Space complexity: O(n) where n is the number of cars (I used an array with a MAX_CAPACITY).
+
+Additional note: if the price or mileage of leftChild = rightChild, the rightChild has higher priority based on the compare() method.

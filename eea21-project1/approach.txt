@@ -1,0 +1,15 @@
+Emma Akbari (eea21)
+
+I utilized my own DLB trie for the user history symbol table.
+The DLB is created in UserHist.java via instantiating the class for the actual DLB, DictTrie.java.
+The methods in UserHist utilize those in DictTrie with a few modifications, such
+as ranking words based on their frequency (rather than just alphabetically) in user_history.txt.
+I imported HashMap from the java standard library to keep track of repeats,
+since it can search for these repeats relatively fast (O(1), worst case O(logn)). I also
+used Arrays to sort the user predictions alphabetically (O(nlogn)).
+
+Even though it has worst case runtime of O(wR) (w = length of longest key, R = radix),
+it is not likely that all levels would use R characters, so the runtime
+would be even less. The underlying Linked List structure also takes up less space than
+an equivalent array implementation. Finally, the DLB is a data structure that allows
+for the search of prefixes, which was necessary in this assignment.

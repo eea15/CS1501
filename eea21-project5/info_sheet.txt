@@ -1,0 +1,57 @@
+========================================
+CS/COE 1501 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  Emma Akbari
+
+Lecture section:  1170
+
+Recitation day and time:  TuTh 12:30-1:45 pm
+
+Assignment #:  5
+
+Program due date:  4/17/20
+
+Handed in date:  4/17/20
+
+Source code file name(s):
+
+
+HeftyInteger.java
+
+
+
+
+Other file name(s) (if relevant):
+
+
+
+
+
+
+
+Does your program run without error?: No
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+
+I decided to implement the division() method in a naive approach because of time constraints
+(subtraction in a loop rather than long division).
+Because of this, xgcd() takes a really long time to compute large values.
+Other than runtime for xgcd(), I didn't encounter any problems.
+
+
+
+
+Additional comments to the grader:
+
+
+
+
+
+
+

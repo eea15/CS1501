@@ -1,0 +1,58 @@
+========================================
+CS/COE 1501 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  Emma Akbari
+
+Lecture section:  1170
+
+Recitation day and time:  Friday 10-10:50am
+
+Assignment #:  2
+
+Program due date:  3/1/20
+
+Handed in date:  2/23/20
+
+Source code file name(s):
+
+MyLZW.java
+
+
+
+
+
+Other file name(s) (if relevant):
+
+results.txt
+
+
+
+
+
+Does your program run without error?: yes
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+
+
+N/A
+
+
+
+
+Additional comments to the grader: 
+
+I completed this assignment assuming the codebook is full in terms of an array
+(i.e. for a max of 512, the codebook is filled from codewords 0-511).
+
+
+
+
+
+
+
